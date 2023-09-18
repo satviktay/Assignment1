@@ -1,0 +1,14 @@
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\bin\Debug\netcoreapp3.1\SatvikDevOps.exe
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\bin\Debug\netcoreapp3.1\SatvikDevOps.deps.json
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\bin\Debug\netcoreapp3.1\SatvikDevOps.runtimeconfig.json
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\bin\Debug\netcoreapp3.1\SatvikDevOps.runtimeconfig.dev.json
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\bin\Debug\netcoreapp3.1\SatvikDevOps.dll
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\bin\Debug\netcoreapp3.1\SatvikDevOps.pdb
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\obj\Debug\netcoreapp3.1\SatvikDevOps.csproj.AssemblyReference.cache
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\obj\Debug\netcoreapp3.1\SatvikDevOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\obj\Debug\netcoreapp3.1\SatvikDevOps.AssemblyInfoInputs.cache
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\obj\Debug\netcoreapp3.1\SatvikDevOps.AssemblyInfo.cs
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\obj\Debug\netcoreapp3.1\SatvikDevOps.csproj.CoreCompileInputs.cache
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\obj\Debug\netcoreapp3.1\SatvikDevOps.dll
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\obj\Debug\netcoreapp3.1\SatvikDevOps.pdb
+C:\Users\neerajyadav01\Desktop\SatvikDevops\SatvikDevOps\obj\Debug\netcoreapp3.1\SatvikDevOps.genruntimeconfig.cache
